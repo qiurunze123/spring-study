@@ -37,6 +37,7 @@ public class MainConfig3 {
     @Bean
     public Person person(){
         return new Person("king",35);
+
     }
 
 
