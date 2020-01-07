@@ -33,6 +33,10 @@ public class MainConfig6 {
      * 4.使用 spring 提供的 Factorybean(工厂bean) 进行注册
      *
      *
+     * 单例的对象 在容器启动的时候就已经 初始化
+     *
+     *
+     *
      * @return
      */
     //容器启动初始化时person得bean实例
