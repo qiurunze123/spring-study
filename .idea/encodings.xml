@@ -1,13 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/proxy/James.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/proxy/MeiPo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/proxy2/JdkDynamicProxyTest.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/proxy2/JdkDynamicProxyTest2.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/proxy2/MonitorUtil.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/proxy2/PersonInvocationHandler.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/proxy2/SoftwareEngineer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/cglib/GPMeipo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/cglib/LiuZ.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/cglib/TestGglibProxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/delegate/Dispatcher.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/delegate/DispatcherTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/delegate/ExectorA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/delegate/ExectorB.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/delegate/IExector.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/factory/Car.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/factory/abstr/AbstractFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/factory/simplefactory/SimpleFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/proxy/James.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/proxy/MeiPo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/proxy2/JdkDynamicProxyTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/proxy2/JdkDynamicProxyTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/proxy2/MonitorUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/proxy2/PersonInvocationHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/proxy2/SoftwareEngineer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/writeBySelf/GQClassLoader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/writeBySelf/GQMeipo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/jdk/writeBySelf/GQPorxy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/prototype/greatestsage/GoldRingedStaff.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/prototype/greatestsage/GoldRingedStaff.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/prototype/greatestsage/Monkey.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/prototype/greatestsage/Monkey.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/prototype/greatestsage/TestPrototype.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/prototype/greatestsage/TheGreatestSage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/prototype/simple/CloneTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/prototype/simple/ConcretePrototype.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/strategy/Comparator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/template/Bevegrage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/template/Bevegrage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/template/Coffee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/template/Coffee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/template/Tea.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/template/Tea.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/template/TestTemplate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/enjoy/Tools/template/TestTemplate.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
